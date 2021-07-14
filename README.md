@@ -1,2 +1,2 @@
 # TodoListApp
-Simpel TodoListApp made with Django, multiple users
+Simple TodoListApp made with Django, multiple users
